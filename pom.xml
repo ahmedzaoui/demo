@@ -8,5 +8,6 @@
   <name>sample demo-projects</name>
   <modules>
      <module>OneToManyAnnotation</module>
+     <module>Servlet-JSP-MySQL-Login</module>
   </modules>
 </project>
